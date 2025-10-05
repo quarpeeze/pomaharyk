@@ -1,0 +1,16 @@
+# venv 
+.venv/
+venv/
+
+# py cache
+__pycache__/
+
+# scrapy cache
+.caches/
+.httpcache/
+
+# exports and logs
+*.log
+*.json
+*.jsonl
+
